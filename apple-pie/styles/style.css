@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    color: white;
+    background: url(https://ironhack-paris-ptwd-september-2019.github.io/lab-css-recipes-clone/solution-code/apple-pie-starter-code/images/apple-pie.jpg);
+    background-size:cover;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: normal;
+    font-size: 300%;
+    padding-top: 250px;
+    padding-bottom: 250px;   
+}
+
+p {
+    display:block;
+    margin-block-start: 1em;
+    margin-block-end:1em;
+    margin-inline-start:0px;
+    margin-inline-end: 0px;
+    page-break-after: auto;
+}
+.gma {
+    display: block;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto ;
+    width: 80em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 110%;
+    
+}.preptime {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;   
+}
+.ingredients {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40;
+
+}
+.recipeinfo {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 30%;  
+   
+
+}
+h2 {
+    font-size: 20px;
+    margin-left: 20px
+}
+.directions {
+    width: 45em
+}
+.bottomborder {
+    border-bottom: grey solid 3px;
+    
+}
